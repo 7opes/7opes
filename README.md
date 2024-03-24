@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on IBM
 - 📫 How to reach me vitorlopes52@outlook.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: 7opes ou Lopez
 - ⚡ Fun fact: ...
 
 <!---
